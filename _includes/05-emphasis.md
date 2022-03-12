@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. **Dance Well**
+2. _Speaks four languages_
+3. **I can also _multitask_ very well**
